@@ -1,0 +1,100 @@
+html,table, body, div, table, th, tbody,tr,td,p,span {
+	padding:0pt;
+	margin:0pt;
+	font-family: 'Circular Book', Arial, Verdana, Helvetica, sans-serif;
+	font-size:11pt;			
+}
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #e5e5e5;
+}
+button{
+	background-color:#ff007d;
+	border:0px solid #ff1a8a;
+	text-transform:uppercase;
+	color:#ffffff;
+	font-size:12pt;
+	font-weight:bold;
+	padding: 10px 30px;
+	display:inline-block;
+	letter-spacing:1px;
+	font-family:'Circular Bold', Arial, Helvetica, sans-serif;
+}
+.outerContainer{
+	padding:0px;
+}
+.logoContainer{
+	  padding:0px;
+	  background-image: url("dna_logo.png"); /* The image used */
+	  height: 9%; /* You must set a specified height */
+	  background-position:left; /* Center the image */
+	  background-repeat: no-repeat; /* Do not repeat the image */
+	  border: 1px solid #e5e5e5;
+	}	
+.loginHeader{
+	padding:0px;
+	font-size:2.5rem;
+	font-family:'Circular Black','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.loginBoxTitle{
+	color:#ff007c;
+	margin:0 37% 0% 37%;
+	padding:0 0 0.5% 0;
+	font-size:11.5pt;
+	width:6%;
+	border-bottom:2px solid #ff007c;
+}
+.loginContainer1{
+	margin:0px;
+	padding:0px;
+	background-position:left; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	font-family:'Circular Bold', Arial, Helvetica, sans-serif;
+}	
+.loginContainer2{
+	  padding:3% 1% 0%;
+	  border: 1px solid #e5e5e5;
+	  margin:0 37% 0 37%;
+	  font-family:'Circular Bold', Arial, Helvetica, sans-serif;
+	  border-bottom:0px;
+	}	
+.loginContainer3{
+	  padding:1% 1%;
+	  border: 1px solid #e5e5e5;
+	  border-top:0px;
+	  margin:0 37% 0 37%;
+	  font-family:'Circular Bold', Arial, Helvetica, sans-serif;
+	  text-align:right;
+	}
+.email-validation-message{
+	color:#ff007c;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
